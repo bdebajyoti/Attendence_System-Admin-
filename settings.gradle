@@ -1,0 +1,2 @@
+rootProject.name='ATT_STUDENT'
+include ':app'

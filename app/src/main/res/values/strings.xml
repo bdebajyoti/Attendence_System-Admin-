@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ATT_STUDENT</string>
+    <string-array name="SETSTREAM">Set Stream
+        <item>SELECT STREAM</item>
+        <item>ARTS</item>
+        <item>COMMERCE</item>
+        <item>SCIENCE</item>
+    </string-array>
+    <string-array name="SETTYPE">Set Type
+        <item>SELECT TYPE</item>
+        <item>GENERAL</item>
+        <item>HONOURS</item>
+    </string-array>
+    <string-array name="SETSEM">Set Sem
+        <item>SELECT SEMESTER</item>
+        <item>CBCS_1ST_SEM</item>
+        <item>CBCS_2ND_SEM</item>
+        <item>CBCS_3RD_SEM</item>
+        <item>CBCS_4TH_SEM</item>
+        <item>CBCS_5TH_SEM</item>
+        <item>CBCS_6TH_SEM</item>
+    </string-array>
+</resources>
