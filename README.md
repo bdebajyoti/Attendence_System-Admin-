@@ -1,0 +1,2 @@
+# Attendence_System-Admin-
+This project is build for the college attendence system where the admin can set all paper code including name of stream and semester for the teachers and students.This application is basically used for the college and other institutions for takin Students Attendence. The application is divided under three category that is 1. Attendence for the admin 2. Attendence for the teachers 3. Attendence for the students. Please check the master branch for the app modules. Thank you
